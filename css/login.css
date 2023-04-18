@@ -3,7 +3,13 @@ body{
     /* background-color: linear-gradient(180deg, rgba(white, .15), rgba(white, )); */
    
 }
+.login{
+    background-color: #00000011;
+    border: 1px solid black;
+    padding: 0.25rem;
+    margin: 0.25rem;
 
+}
 .login{
     background-color: #e7cdb6;
     /* background-color: #e7cdb6; */
