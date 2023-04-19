@@ -1,14 +1,15 @@
 /* body{
     background-color: #e7cdb6;
 } */
-.imagecss{
-    
-    
-}
 .homecolor{
     /* background-image: url('/images/homepage.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover; */
     background-color: #eedde7;
+}
+#logotostyle{
+    border-radius: 50%;
+    width: 50;
+    height: 50;
 }
