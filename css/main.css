@@ -10,6 +10,11 @@
 }
 #logotostyle{
     border-radius: 50%;
-    width: 50;
-    height: 50;
+}
+.addcolor{
+    background-color: #9A616D;
+    
+}
+.centertext{
+    text-align: center;
 }

@@ -5,7 +5,9 @@
   } */
   
   /* Toggle Styles */
-  
+  .addcolor{
+    background-color: #9A616D;
+  }
   #viewport {
     padding-left: 250px;
     -webkit-transition: all 0.5s ease;
