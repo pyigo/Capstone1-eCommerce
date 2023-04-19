@@ -1,8 +1,8 @@
-body{
+/* body{
     background-color: #333333;
     /* background-color: linear-gradient(180deg, rgba(white, .15), rgba(white, )); */
    
-}
+/* }
 .login{
     background-color: #00000011;
     border: 1px solid black;
@@ -11,14 +11,14 @@ body{
 
 }
 .login{
-    background-color: #e7cdb6;
+    background-color: #e7cdb6; */ 
     /* background-color: #e7cdb6; */
     /* background-color: #e6c7ab; */
     /* background-color: #e0c4ab; */
     /* background-color: #d5b99f; */
     /* background-color: #d7ab82; */
     /* background-color: #534436; */
-    color: #eeeeee;
+    /* color: #eeeeee;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 33vw;
     height: 33vh;
@@ -29,7 +29,7 @@ body{
     box-shadow: 1rem 1rem 3rem black;
 }
 
-.login input{
+.login input .fixwidth1 .fixwidth2{
     width: 100%;
 }
 
@@ -65,4 +65,4 @@ label{
 
 .login .title{
     font-size: 1.5rem;
-}
+} */
