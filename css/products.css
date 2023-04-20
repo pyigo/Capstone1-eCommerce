@@ -3,6 +3,9 @@
     background-color: #9A616D;
   }
   
+  #logotostyle{
+    border-radius: 50%;
+}
 /* code for product cards from website template */
   .posts {
     display: -moz-flex;
