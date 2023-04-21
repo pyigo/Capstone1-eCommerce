@@ -10,3 +10,5 @@ Site is populated with mock data.
 ![Products Page](sitescreenshot/productspage.png)
 ![Login Page](sitescreenshot/loginpage.png)
 ![Sign up Page](sitescreenshot/signuppage.png)
+![Checkout Page](sitescreenshot/checoutpage.png)
+
